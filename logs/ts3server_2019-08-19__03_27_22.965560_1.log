@@ -1,0 +1,714 @@
+2019-08-19 03:27:23.893607|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2019-08-19 03:27:25.634761|INFO    |VirtualServerBase|1  |client connected 'lil kbro'(id:11) from 200.83.219.62:55415
+2019-08-19 03:27:25.763617|INFO    |VirtualServerBase|1  |client connected 'ConnexD'(id:2) using a myTeamSpeak ID from 187.253.123.123:27947
+2019-08-19 03:27:29.202047|INFO    |VirtualServerBase|1  |client connected 'bolivian'(id:4) from 179.24.10.203:53171
+2019-08-19 03:27:29.726449|INFO    |VirtualServerBase|1  |client disconnected 'lil kbro'(id:11) reason 'reasonmsg=saliendo'
+2019-08-19 03:28:08.370473|INFO    |VirtualServerBase|1  |client disconnected 'bolivian'(id:4) reason 'reasonmsg=saliendo'
+2019-08-19 03:31:24.711764|INFO    |VirtualServerBase|1  |client connected 'Black'(id:14) from 186.147.180.165:65034
+2019-08-19 03:40:07.222291|INFO    |VirtualServerBase|1  |client connected 'bolivian'(id:4) from 179.24.10.203:65427
+2019-08-19 03:41:20.590493|INFO    |VirtualServerBase|1  |file upload to (id:10), '/forge-1.12.2-14.23.5.2838-installer.jar' by client 'ConnexD'(id:2)
+2019-08-19 03:42:02.043119|INFO    |VirtualServerBase|1  |file download from (id:10), '/forge-1.12.2-14.23.5.2838-installer.jar' by client 'bolivian'(id:4)
+2019-08-19 04:10:34.591020|INFO    |VirtualServerBase|1  |client disconnected 'ConnexD'(id:2) reason 'reasonmsg=saliendo'
+2019-08-19 04:30:17.534058|INFO    |VirtualServerBase|1  |client disconnected 'bolivian'(id:4) reason 'reasonmsg=saliendo'
+2019-08-19 05:06:29.257116|INFO    |VirtualServerBase|1  |client disconnected 'Black'(id:14) reason 'reasonmsg=saliendo'
+2019-08-19 11:56:51.189758|INFO    |VirtualServerBase|1  |client connected 'lil guerrillero'(id:6) using a myTeamSpeak ID from 190.74.229.242:50086
+2019-08-19 15:23:52.104725|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:11394
+2019-08-19 15:23:58.492091|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=saliendo'
+2019-08-19 16:45:18.883910|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.139.96:65198
+2019-08-19 16:46:43.612270|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:8989
+2019-08-19 16:46:57.924397|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=saliendo'
+2019-08-19 16:49:00.896405|INFO    |VirtualServerBase|1  |client connected 'Black'(id:14) from 186.147.180.165:50018
+2019-08-19 17:03:57.325828|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:9301
+2019-08-19 17:05:31.240796|INFO    |VirtualServerBase|1  |file download from (id:10), '/forge-1.12.2-14.23.5.2838-installer.jar' by client '---'(id:10)
+2019-08-19 17:06:41.400615|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=saliendo'
+2019-08-19 17:31:10.384236|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2019-08-19 17:31:10.384431|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=connection lost'
+2019-08-19 17:44:09.261985|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.139.96:54451
+2019-08-19 17:45:13.728254|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina1'(id:5) from 181.170.139.96:54451
+2019-08-19 17:45:16.290973|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2019-08-19 17:45:16.291100|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=connection lost'
+2019-08-19 17:46:23.087558|INFO    |VirtualServer |1  |complaint added for client 'Black'(id:14) reason 'no tiene paciencia :(' by client 'lil Luchaina'(id:5)
+2019-08-19 17:54:37.341874|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:10884
+2019-08-19 18:25:17.248796|INFO    |VirtualServerBase|1  |client connected '▶ lil r ◀'(id:7) from 190.84.217.156:49825
+2019-08-19 18:30:15.279967|INFO    |VirtualServerBase|1  |client 'Lil Vzla'(id:6) changed myTeamSpeak ID
+2019-08-19 18:50:30.382356|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2019-08-19 18:50:30.382506|INFO    |VirtualServerBase|1  |client disconnected '▶ lil r ◀'(id:7) reason 'reasonmsg=connection lost'
+2019-08-19 18:51:25.229827|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=saliendo'
+2019-08-19 18:55:51.722011|INFO    |VirtualServerBase|1  |client connected '▶ lil r ◀'(id:7) from 190.84.217.156:51783
+2019-08-19 19:10:26.562686|INFO    |VirtualServerBase|1  |client disconnected '▶ lil r ◀'(id:7) reason 'reasonmsg=saliendo'
+2019-08-19 19:10:38.235333|INFO    |VirtualServerBase|1  |client connected '▶ lil r ◀'(id:7) from 190.84.217.156:51783
+2019-08-19 19:10:51.871733|INFO    |VirtualServerBase|1  |client connected 'lil kbro'(id:11) from 200.83.219.62:62484
+2019-08-19 19:11:02.722188|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2019-08-19 19:11:02.722305|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=connection lost'
+2019-08-19 19:13:05.500113|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.139.96:54451
+2019-08-19 19:13:10.042849|INFO    |VirtualServerBase|1  |client connected 'TuGfa4x4'(id:9) from 189.144.115.51:53574
+2019-08-19 19:16:04.673053|INFO    |VirtualServerBase|1  |channel 'la luchaina, el ozo y el hornitorrinko'(id:10) edited by 'lil Luchaina'(id:5)
+2019-08-19 19:25:38.626186|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2019-08-19 19:25:38.626338|INFO    |VirtualServerBase|1  |client disconnected '▶ lil r ◀'(id:7) reason 'reasonmsg=connection lost'
+2019-08-19 19:26:40.685541|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2019-08-19 19:26:40.685705|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=connection lost'
+2019-08-19 19:27:41.087423|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.139.96:54451
+2019-08-19 19:33:35.393046|INFO    |VirtualServerBase|1  |client connected '▶ lil r ◀'(id:7) from 190.84.217.156:58189
+2019-08-19 19:43:15.053240|INFO    |VirtualServerBase|1  |channel 'Sala AFK del gordo pablo'(id:12) edited by 'lil Luchaina'(id:5)
+2019-08-19 19:54:21.077448|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=saliendo'
+2019-08-19 20:05:31.644531|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:3150
+2019-08-19 20:18:45.243746|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.139.96:51839
+2019-08-19 20:29:06.730461|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=saliendo'
+2019-08-19 20:30:29.619118|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.57.237:27003
+2019-08-19 20:35:48.074297|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2019-08-19 20:35:48.074734|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=connection lost'
+2019-08-19 20:42:56.819152|INFO    |VirtualServerBase|1  |client disconnected 'TuGfa4x4'(id:9) reason 'reasonmsg=Me llevo a tu hermana'
+2019-08-19 21:15:37.352287|INFO    |VirtualServerBase|1  |client connected 'lil dios'(id:12) from 190.196.112.198:60408
+2019-08-19 21:22:14.039640|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=saliendo'
+2019-08-19 21:50:15.826723|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2019-08-19 21:50:15.826906|INFO    |VirtualServerBase|1  |client disconnected '▶ lil r ◀'(id:7) reason 'reasonmsg=connection lost'
+2019-08-19 21:53:40.665664|INFO    |VirtualServerBase|1  |client connected '▶ lil r ◀'(id:7) from 190.84.217.156:56456
+2019-08-19 22:02:43.642689|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.57.237:60522
+2019-08-19 22:08:04.862048|INFO    |VirtualServerBase|1  |client connected 'TuGfa4x4'(id:9) from 189.144.115.51:62192
+2019-08-19 22:12:48.071670|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:3170
+2019-08-19 22:25:30.066264|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2019-08-19 22:25:30.066471|INFO    |VirtualServerBase|1  |client disconnected 'lil dios'(id:12) reason 'reasonmsg=connection lost'
+2019-08-19 22:25:45.173123|INFO    |VirtualServerBase|1  |client connected 'lil dios'(id:12) from 190.196.112.198:60408
+2019-08-19 22:39:08.988261|INFO    |PktHandler    |1  |Dropping client 13 because of ping timeout 19 0 0
+2019-08-19 22:39:08.988378|INFO    |VirtualServerBase|1  |client disconnected 'lil dios'(id:12) reason 'reasonmsg=connection lost'
+2019-08-19 22:39:23.213145|INFO    |VirtualServerBase|1  |client connected 'lil dios'(id:12) from 190.196.112.198:60408
+2019-08-19 22:40:04.903310|INFO    |VirtualServerBase|1  |client disconnected 'lil dios'(id:12) reason 'reasonmsg=pene'
+2019-08-19 22:42:38.424805|INFO    |VirtualServerBase|1  |client connected 'lil dios'(id:12) from 190.196.112.198:55433
+2019-08-19 22:45:53.265466|INFO    |VirtualServerBase|1  |client disconnected 'lil dios'(id:12) reason 'reasonmsg=pene'
+2019-08-19 22:53:12.214928|INFO    |VirtualServerBase|1  |client disconnected 'TuGfa4x4'(id:9) reason 'reasonmsg=Me llevo a tu hermana'
+2019-08-19 22:58:17.689390|INFO    |VirtualServerBase|1  |client connected 'lil dios'(id:12) from 190.196.112.198:58229
+2019-08-19 23:00:39.093688|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.139.96:52313
+2019-08-19 23:00:52.307926|INFO    |VirtualServerBase|1  |client connected 'bolivian'(id:4) from 179.24.152.167:53647
+2019-08-19 23:01:13.354646|INFO    |VirtualServer |1  |client (id:12) was removed from servergroup 'Rango Vrg'(id:6) by client 'bolivian'(id:4)
+2019-08-19 23:01:28.704818|INFO    |VirtualServer |1  |ban added reason='puita quien?' cluid='Y7EO2VWhka0FKJiD6Hlfc5I4LnQ=' bantime=1 by client 'bolivian'(id:4)
+2019-08-19 23:01:28.705073|INFO    |VirtualServer |1  |ban added reason='puita quien?' ip='190.196.112.198' bantime=1 by client 'bolivian'(id:4)
+2019-08-19 23:01:28.705142|INFO    |VirtualServerBase|1  |client disconnected 'lil dios'(id:12) reason 'invokerid=4 invokername=bolivian invokeruid=K8rgB6c6ZDELmuF5+O7XEHLDWME= reasonmsg=puita quien? bantime=1'
+2019-08-19 23:01:30.448253|INFO    |BanManager    |1  |ban deleted (expired) reason='puita quien?' cluid='Y7EO2VWhka0FKJiD6Hlfc5I4LnQ=' bantime=1 by client 'server'(id:0)
+2019-08-19 23:01:30.448444|INFO    |BanManager    |1  |ban deleted (expired) reason='puita quien?' ip='190.196.112.198' bantime=1 by client 'server'(id:0)
+2019-08-19 23:01:45.004538|INFO    |VirtualServerBase|1  |client connected 'lil dios'(id:12) from 190.196.112.198:58229
+2019-08-19 23:04:02.512294|INFO    |PktHandler    |1  |Cleaning up connection because of 8 resends of COMMAND packet
+2019-08-19 23:04:02.512408|INFO    |PktHandler    |1  |Dropping client 8 because of resend timeout
+2019-08-19 23:04:02.512457|INFO    |VirtualServerBase|1  |client disconnected '▶ lil r ◀'(id:7) reason 'reasonmsg=connection lost'
+2019-08-19 23:10:32.049870|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2019-08-19 23:10:32.050063|INFO    |VirtualServerBase|1  |client disconnected 'bolivian'(id:4) reason 'reasonmsg=connection lost'
+2019-08-19 23:19:01.030880|INFO    |VirtualServerBase|1  |client connected 'bolivian'(id:4) from 179.26.22.217:60933
+2019-08-19 23:19:34.512350|INFO    |VirtualServer |1  |client (id:12) was added to servergroup 'Rango Vrg'(id:6) by client 'bolivian'(id:4)
+2019-08-19 23:28:57.718943|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=me fui con tu mamà'
+2019-08-19 23:44:44.392459|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2019-08-19 23:44:44.392643|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=connection lost'
+2019-08-19 23:49:49.380045|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.139.96:51675
+2019-08-19 23:51:48.209934|INFO    |VirtualServerBase|1  |client connected 'ConnexD'(id:2) using a myTeamSpeak ID from 187.253.123.123:14905
+2019-08-19 23:58:04.307354|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2019-08-19 23:58:04.307500|INFO    |VirtualServerBase|1  |client disconnected 'bolivian'(id:4) reason 'reasonmsg=connection lost'
+2019-08-20 00:00:07.155750|INFO    |VirtualServerBase|1  |client connected 'bolivian'(id:4) from 179.25.168.135:60933
+2019-08-20 00:24:53.522709|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=saliendo'
+2019-08-20 00:35:01.483932|INFO    |VirtualServerBase|1  |client connected 'TuGfa4x4'(id:9) from 189.144.115.51:59602
+2019-08-20 00:35:10.552549|INFO    |VirtualServerBase|1  |client disconnected 'TuGfa4x4'(id:9) reason 'reasonmsg=Me llevo a tu hermana'
+2019-08-20 00:42:31.972321|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:5216
+2019-08-20 01:01:53.485739|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.57.237:60511
+2019-08-20 01:15:40.782062|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2019-08-20 01:15:40.782214|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=connection lost'
+2019-08-20 01:17:49.529438|INFO    |PktHandler    |1  |Cleaning up connection because of 4 resends of COMMAND packet
+2019-08-20 01:17:49.529534|INFO    |PktHandler    |1  |Dropping client 6 because of resend timeout
+2019-08-20 01:17:49.529589|INFO    |VirtualServerBase|1  |client disconnected 'lil dios'(id:12) reason 'reasonmsg=connection lost'
+2019-08-20 01:18:00.035519|INFO    |VirtualServerBase|1  |client connected 'lil dios'(id:12) from 190.196.112.198:58229
+2019-08-20 01:19:01.196619|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.139.96:51675
+2019-08-20 01:21:32.075520|INFO    |VirtualServerBase|1  |client disconnected 'lil dios'(id:12) reason 'reasonmsg=pene'
+2019-08-20 01:22:23.273634|INFO    |VirtualServerBase|1  |client connected 'lil dios'(id:12) from 190.196.112.198:63663
+2019-08-20 01:22:30.320159|INFO    |VirtualServerBase|1  |client disconnected 'lil dios'(id:12) reason 'reasonmsg=pene'
+2019-08-20 01:23:17.209267|INFO    |VirtualServerBase|1  |client connected 'lil dios'(id:12) from 190.196.112.198:50085
+2019-08-20 01:25:11.655027|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3259410762' by client 'ConnexD'(id:2)
+2019-08-20 01:26:01.066228|INFO    |VirtualServerBase|1  |file upload to (id:0), '/icon_447700472' by client 'ConnexD'(id:2)
+2019-08-20 01:26:09.962776|INFO    |VirtualServerBase|1  |channel 'Soporte Técnico'(id:6) edited by 'ConnexD'(id:2)
+2019-08-20 01:26:09.973782|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:143) with values (value:447700472) was added by 'ConnexD'(id:2) to channel 'Soporte Técnico'(id:6)
+2019-08-20 01:26:09.975120|INFO    |VirtualServerBase|1  |channel 'Soporte Técnico'(id:6) edited by 'ConnexD'(id:2)
+2019-08-20 01:26:10.149151|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_447700472' by client 'lil kbro'(id:11)
+2019-08-20 01:26:10.149500|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_447700472' by client 'bolivian'(id:4)
+2019-08-20 01:26:10.271330|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_447700472' by client 'Black'(id:14)
+2019-08-20 01:26:10.412313|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_447700472' by client 'lil dios'(id:12)
+2019-08-20 01:26:10.512450|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_447700472' by client 'lil Carlos'(id:8)
+2019-08-20 01:26:10.556263|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_447700472' by client '---'(id:10)
+2019-08-20 01:26:12.508416|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_447700472' by client 'Lil Vzla'(id:6)
+2019-08-20 01:26:17.524098|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_447700472' by client 'lil Luchaina'(id:5)
+2019-08-20 01:26:21.090908|INFO    |VirtualServerBase|1  |file download from (id:10), '/forge-1.12.2-14.23.5.2838-installer.jar' by client 'lil Carlos'(id:8)
+2019-08-20 01:41:38.242996|INFO    |VirtualServerBase|1  |client disconnected 'bolivian'(id:4) reason 'reasonmsg=saliendo'
+2019-08-20 01:49:47.581223|INFO    |VirtualServerBase|1  |channel 'benezuelazoz channel'(id:6) edited by 'Lil Vzla'(id:6)
+2019-08-20 01:49:53.503143|INFO    |VirtualServerBase|1  |channel 'benesuelazoz channel'(id:6) edited by 'Lil Vzla'(id:6)
+2019-08-20 01:50:03.944907|INFO    |VirtualServerBase|1  |channel 'benesuelazoz channel & support'(id:6) edited by 'Black'(id:14)
+2019-08-20 01:50:05.727619|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_447700472' by client 'Lil Vzla'(id:6)
+2019-08-20 01:50:06.943803|INFO    |VirtualServerBase|1  |channel 'benesuelazoz channel'(id:6) edited by 'Lil Vzla'(id:6)
+2019-08-20 01:50:16.729671|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:143) with values (value:-1831351504) was added by 'Lil Vzla'(id:6) to channel 'benesuelazoz channel'(id:6)
+2019-08-20 01:50:16.730484|INFO    |VirtualServerBase|1  |channel 'benesuelazoz channel'(id:6) edited by 'Lil Vzla'(id:6)
+2019-08-20 01:58:13.279116|INFO    |VirtualServerBase|1  |client disconnected 'Lil Vzla'(id:6) reason 'reasonmsg=Just another typical disconnection message.'
+2019-08-20 02:04:33.045398|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=saliendo'
+2019-08-20 02:09:03.574982|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=saliendo'
+2019-08-20 02:09:45.163999|INFO    |VirtualServerBase|1  |client connected 'TuGfa4x4'(id:9) from 189.144.115.51:50568
+2019-08-20 02:09:54.965754|INFO    |VirtualServerBase|1  |client disconnected 'TuGfa4x4'(id:9) reason 'reasonmsg=Me llevo a tu hermana'
+2019-08-20 03:09:02.626813|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=me fui con tu mamà'
+2019-08-20 03:13:57.924770|INFO    |VirtualServerBase|1  |client disconnected 'ConnexD'(id:2) reason 'reasonmsg=saliendo'
+2019-08-20 03:45:57.939262|INFO    |VirtualServerBase|1  |client disconnected 'lil kbro'(id:11) reason 'reasonmsg=saliendo'
+2019-08-20 04:01:12.515068|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.57.237:10466
+2019-08-20 04:07:02.427502|INFO    |VirtualServerBase|1  |client disconnected 'lil dios'(id:12) reason 'reasonmsg=pene'
+2019-08-20 04:58:19.701890|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=me fui con tu mamà'
+2019-08-20 05:15:12.828599|INFO    |VirtualServerBase|1  |client connected 'TuGfa4x4'(id:9) from 189.144.115.51:50470
+2019-08-20 05:16:34.276502|INFO    |VirtualServerBase|1  |client disconnected 'TuGfa4x4'(id:9) reason 'reasonmsg=Me llevo a tu hermana'
+2019-08-20 06:10:49.863155|INFO    |VirtualServerBase|1  |client disconnected 'Black'(id:14) reason 'reasonmsg=saliendo'
+2019-08-20 13:40:03.138649|INFO    |VirtualServerBase|1  |client connected 'Lil Vzla'(id:6) using a myTeamSpeak ID from 190.74.229.242:64785
+2019-08-20 13:42:28.477016|INFO    |PktHandler    |1  |Cleaning up connection because of 2 resends of COMMAND packet
+2019-08-20 13:42:28.477118|INFO    |PktHandler    |1  |Dropping client 1 because of resend timeout
+2019-08-20 13:42:28.477162|INFO    |VirtualServerBase|1  |client disconnected 'Lil Vzla'(id:6) reason 'reasonmsg=connection lost'
+2019-08-20 15:14:16.939949|INFO    |VirtualServerBase|1  |client connected 'Lil Vzla'(id:6) from 186.88.135.156:55751
+2019-08-20 15:14:43.996215|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2019-08-20 15:14:43.996359|INFO    |PktHandler    |1  |Dropping client 1 because of resend timeout
+2019-08-20 15:14:43.996441|INFO    |VirtualServerBase|1  |client disconnected 'Lil Vzla'(id:6) reason 'reasonmsg=connection lost'
+2019-08-20 15:17:42.908514|INFO    |VirtualServerBase|1  |client connected 'Lil Vzla'(id:6) using a myTeamSpeak ID from 186.88.135.156:63102
+2019-08-20 15:19:55.814635|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2019-08-20 15:19:55.814901|INFO    |VirtualServerBase|1  |client disconnected 'Lil Vzla'(id:6) reason 'reasonmsg=connection lost'
+2019-08-20 15:20:11.792022|INFO    |VirtualServerBase|1  |client connected 'Lil Vzla'(id:6) using a myTeamSpeak ID from 186.88.135.156:63102
+2019-08-20 15:26:48.244867|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2019-08-20 15:26:48.245069|INFO    |VirtualServerBase|1  |client disconnected 'Lil Vzla'(id:6) reason 'reasonmsg=connection lost'
+2019-08-20 15:27:14.762946|INFO    |VirtualServerBase|1  |client connected 'Lil Vzla'(id:6) using a myTeamSpeak ID from 186.88.135.156:63102
+2019-08-20 15:29:34.404256|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2019-08-20 15:29:34.404442|INFO    |VirtualServerBase|1  |client disconnected 'Lil Vzla'(id:6) reason 'reasonmsg=connection lost'
+2019-08-20 15:30:16.005589|INFO    |VirtualServerBase|1  |client connected 'Lil Vzla'(id:6) using a myTeamSpeak ID from 186.88.135.156:63102
+2019-08-20 16:30:17.881441|INFO    |VirtualServerBase|1  |client connected 'Black'(id:14) from 186.147.180.165:63672
+2019-08-20 16:47:26.940967|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2019-08-20 16:47:26.941142|INFO    |VirtualServerBase|1  |client disconnected 'Lil Vzla'(id:6) reason 'reasonmsg=connection lost'
+2019-08-20 16:48:09.668078|INFO    |VirtualServerBase|1  |client connected 'Lil Vzla'(id:6) using a myTeamSpeak ID from 186.88.135.156:63102
+2019-08-20 16:48:55.028080|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2019-08-20 16:48:55.028187|INFO    |VirtualServerBase|1  |client disconnected 'Lil Vzla'(id:6) reason 'reasonmsg=connection lost'
+2019-08-20 16:51:24.126302|INFO    |VirtualServerBase|1  |client connected 'Lil Vzla'(id:6) using a myTeamSpeak ID from 186.88.135.156:63102
+2019-08-20 16:52:08.217095|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2019-08-20 16:52:08.217215|INFO    |VirtualServerBase|1  |client disconnected 'Lil Vzla'(id:6) reason 'reasonmsg=connection lost'
+2019-08-20 16:55:32.832895|INFO    |VirtualServerBase|1  |client connected 'Lil Vzla'(id:6) using a myTeamSpeak ID from 186.88.135.156:63102
+2019-08-20 16:56:32.466038|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2019-08-20 16:56:32.466191|INFO    |VirtualServerBase|1  |client disconnected 'Lil Vzla'(id:6) reason 'reasonmsg=connection lost'
+2019-08-20 18:10:24.319773|INFO    |VirtualServerBase|1  |client connected 'TuGfa4x4'(id:9) from 189.144.115.51:63213
+2019-08-20 18:55:33.612513|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.51.0:47039
+2019-08-20 19:12:32.653533|INFO    |VirtualServerBase|1  |client connected 'lil kbro'(id:11) from 200.83.219.62:56760
+2019-08-20 19:26:15.956946|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 152.169.205.223:64920
+2019-08-20 19:29:10.138919|INFO    |VirtualServerBase|1  |client connected 'bolivian'(id:4) from 179.25.185.225:55179
+2019-08-20 19:52:35.868589|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=me fui con tu mamà'
+2019-08-20 19:55:46.296182|INFO    |VirtualServerBase|1  |client disconnected 'Black'(id:14) reason 'reasonmsg=saliendo'
+2019-08-20 20:01:35.217809|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.51.0:47033
+2019-08-20 20:07:55.233512|INFO    |VirtualServerBase|1  |client connected 'lordwephia'(id:13) using a myTeamSpeak ID from 177.228.11.115:59920
+2019-08-20 20:19:11.741405|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2019-08-20 20:19:11.741636|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=connection lost'
+2019-08-20 20:21:07.254017|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.51.0:3635
+2019-08-20 20:38:39.359358|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=saliendo'
+2019-08-20 20:49:39.961480|INFO    |VirtualServerBase|1  |client connected 'lil dios'(id:12) from 190.196.112.198:61085
+2019-08-20 20:53:11.913369|INFO    |VirtualServer |1  |client (id:13) was added to servergroup 'Rango Vrg'(id:6) by client 'lil Carlos'(id:8)
+2019-08-20 20:53:16.599561|INFO    |VirtualServerBase|1  |file download from (id:10), '/forge-1.12.2-14.23.5.2838-installer.jar' by client 'lordwephia'(id:13)
+2019-08-20 20:53:24.100149|INFO    |VirtualServer |1  |client (id:13) was removed from servergroup 'Rango Vrg'(id:6) by client 'lil Carlos'(id:8)
+2019-08-20 21:11:18.553080|INFO    |VirtualServerBase|1  |client disconnected 'TuGfa4x4'(id:9) reason 'reasonmsg=Me llevo a tu hermana'
+2019-08-20 21:14:54.890637|INFO    |VirtualServerBase|1  |client disconnected 'lil kbro'(id:11) reason 'reasonmsg=saliendo'
+2019-08-20 21:28:21.523588|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=me fui con tu mamà'
+2019-08-20 22:04:22.255326|INFO    |VirtualServerBase|1  |client disconnected 'bolivian'(id:4) reason 'reasonmsg=saliendo'
+2019-08-20 23:02:14.359657|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 152.169.205.223:56109
+2019-08-20 23:06:53.256622|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.51.0:47027
+2019-08-20 23:33:42.935896|INFO    |VirtualServerBase|1  |client connected 'ConnexD'(id:2) using a myTeamSpeak ID from 187.253.123.123:28878
+2019-08-20 23:39:58.897791|INFO    |VirtualServerBase|1  |client connected 'bolivian'(id:4) from 179.25.185.225:55176
+2019-08-20 23:40:03.848490|INFO    |VirtualServerBase|1  |client disconnected 'bolivian'(id:4) reason 'reasonmsg=saliendo'
+2019-08-20 23:53:48.295766|INFO    |VirtualServerBase|1  |file upload to (id:10), '/Minecraft.rar' by client 'ConnexD'(id:2)
+2019-08-20 23:56:57.626503|INFO    |VirtualServerBase|1  |file upload to (id:10), '/Minecraft.rar' by client 'ConnexD'(id:2)
+2019-08-21 00:01:13.125406|INFO    |VirtualServerBase|1  |client disconnected 'lordwephia'(id:13) reason 'reasonmsg=saliendo'
+2019-08-21 00:04:24.243442|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=me fui con tu mamà'
+2019-08-21 00:06:19.734115|INFO    |VirtualServerBase|1  |client connected 'bolivian'(id:4) from 179.25.38.226:52337
+2019-08-21 00:06:23.972794|INFO    |VirtualServerBase|1  |client disconnected 'bolivian'(id:4) reason 'reasonmsg=saliendo'
+2019-08-21 00:08:22.205542|INFO    |VirtualServerBase|1  |client connected '▶ lil r ◀'(id:7) from 190.84.217.156:59311
+2019-08-21 00:20:53.780129|INFO    |VirtualServerBase|1  |file download from (id:10), '/Minecraft.rar' by client '▶ lil r ◀'(id:7)
+2019-08-21 00:21:46.564072|INFO    |VirtualServerBase|1  |client connected 'lil kbro'(id:11) from 200.83.219.62:56131
+2019-08-21 01:09:25.498494|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2019-08-21 01:09:25.498677|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=connection lost'
+2019-08-21 01:10:01.532236|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 152.169.205.223:56109
+2019-08-21 01:16:24.320756|INFO    |VirtualServerBase|1  |client connected 'bolivian'(id:4) from 179.25.38.226:52145
+2019-08-21 01:17:23.255129|INFO    |VirtualServerBase|1  |client disconnected 'bolivian'(id:4) reason 'reasonmsg=saliendo'
+2019-08-21 01:17:31.274610|INFO    |PktHandler    |1  |Cleaning up connection because of 5 resends of COMMAND packet
+2019-08-21 01:17:31.274717|INFO    |PktHandler    |1  |Dropping client 8 because of resend timeout
+2019-08-21 01:17:31.274761|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=connection lost'
+2019-08-21 01:17:54.819633|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 152.169.205.223:56109
+2019-08-21 01:23:21.084248|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.51.0:47024
+2019-08-21 01:32:26.486311|INFO    |VirtualServerBase|1  |client connected 'lordwephia'(id:13) using a myTeamSpeak ID from 177.228.11.115:41174
+2019-08-21 01:34:39.385386|INFO    |VirtualServerBase|1  |client disconnected 'lordwephia'(id:13) reason 'reasonmsg=saliendo'
+2019-08-21 01:54:06.897046|INFO    |VirtualServerBase|1  |client connected 'Black'(id:14) from 186.147.180.165:63672
+2019-08-21 01:55:58.661475|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=saliendo'
+2019-08-21 02:13:18.244277|INFO    |VirtualServerBase|1  |client connected 'TuGfa4x4'(id:9) from 189.144.115.51:62806
+2019-08-21 02:56:54.167718|INFO    |VirtualServerBase|1  |client disconnected 'TuGfa4x4'(id:9) reason 'reasonmsg=Me llevo a tu hermana'
+2019-08-21 03:11:51.353266|INFO    |VirtualServer |1  |client (id:11) was removed from servergroup 'Rango Vrg'(id:6) by client 'lil dios'(id:12)
+2019-08-21 03:12:02.203843|INFO    |VirtualServer |1  |client (id:11) was added to servergroup 'Rango Vrg'(id:6) by client 'ConnexD'(id:2)
+2019-08-21 03:12:23.764322|INFO    |VirtualServer |1  |client (id:11) was removed from servergroup 'Rango Vrg'(id:6) by client 'Black'(id:14)
+2019-08-21 03:12:27.542505|INFO    |VirtualServer |1  |client (id:12) was removed from servergroup 'Rango Vrg'(id:6) by client 'Black'(id:14)
+2019-08-21 03:12:50.480684|INFO    |VirtualServer |1  |client (id:12) was added to servergroup 'Rango Vrg'(id:6) by client 'Black'(id:14)
+2019-08-21 03:29:04.764583|INFO    |VirtualServerBase|1  |client disconnected '▶ lil r ◀'(id:7) reason 'reasonmsg=saliendo'
+2019-08-21 03:29:20.096549|INFO    |VirtualServerBase|1  |client disconnected 'ConnexD'(id:2) reason 'reasonmsg=saliendo'
+2019-08-21 03:38:57.429296|INFO    |VirtualServerBase|1  |client disconnected 'lil kbro'(id:11) reason 'reasonmsg=saliendo'
+2019-08-21 03:44:43.551190|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=me fui con tu mamà'
+2019-08-21 03:54:00.626075|INFO    |VirtualServerBase|1  |client disconnected 'lil dios'(id:12) reason 'reasonmsg=pene'
+2019-08-21 04:47:49.119427|INFO    |VirtualServerBase|1  |client connected 'bolivian'(id:4) from 179.25.38.226:55860
+2019-08-21 04:48:01.684121|INFO    |VirtualServerBase|1  |client disconnected 'bolivian'(id:4) reason 'reasonmsg=saliendo'
+2019-08-21 05:28:02.544277|INFO    |VirtualServerBase|1  |client disconnected 'Black'(id:14) reason 'reasonmsg=saliendo'
+2019-08-21 14:28:41.096388|INFO    |VirtualServerBase|1  |client connected 'Black'(id:14) from 186.147.180.165:62598
+2019-08-21 14:38:24.363382|INFO    |VirtualServerBase|1  |client connected '▶ lil r ◀'(id:7) from 190.84.217.156:50039
+2019-08-21 14:41:59.389210|INFO    |VirtualServerBase|1  |client disconnected '▶ lil r ◀'(id:7) reason 'reasonmsg=saliendo'
+2019-08-21 14:42:07.477042|INFO    |VirtualServerBase|1  |client connected '▶ lil r ◀'(id:7) from 190.84.217.156:50039
+2019-08-21 15:51:44.203032|INFO    |VirtualServerBase|1  |file upload to (id:10), '/config.yml' by client '▶ lil r ◀'(id:7)
+2019-08-21 15:51:58.221456|INFO    |VirtualServerBase|1  |file download from (id:10), '/config.yml' by client 'Black'(id:14)
+2019-08-21 17:38:49.396378|INFO    |VirtualServerBase|1  |client connected 'TuGfa4x4'(id:9) from 189.144.115.51:49640
+2019-08-21 20:04:45.432307|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.51.0:47024
+2019-08-21 20:22:24.574973|INFO    |VirtualServerBase|1  |client connected 'lil kbro'(id:11) from 200.83.219.62:63413
+2019-08-21 20:33:56.541139|INFO    |VirtualServerBase|1  |client connected 'ConnexD'(id:2) using a myTeamSpeak ID from 187.253.123.123:39287
+2019-08-21 20:35:09.592661|INFO    |VirtualServerBase|1  |client disconnected '▶ lil r ◀'(id:7) reason 'reasonmsg=saliendo'
+2019-08-21 22:00:18.327462|INFO    |VirtualServerBase|1  |client connected 'hola'(id:22) using a myTeamSpeak ID from 198.96.95.218:60875
+2019-08-21 22:00:19.202518|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1612103521' by client 'hola'(id:22)
+2019-08-21 22:00:19.668695|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1377924223' by client 'hola'(id:22)
+2019-08-21 22:00:19.671409|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4223750993' by client 'hola'(id:22)
+2019-08-21 22:00:19.671605|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2463615792' by client 'hola'(id:22)
+2019-08-21 22:00:19.910077|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1036548476' by client 'hola'(id:22)
+2019-08-21 22:00:19.997591|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2424331456' by client 'hola'(id:22)
+2019-08-21 22:00:20.263983|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1665593403' by client 'hola'(id:22)
+2019-08-21 22:00:20.286436|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1217419634' by client 'hola'(id:22)
+2019-08-21 22:00:20.324403|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1165272063' by client 'hola'(id:22)
+2019-08-21 22:00:20.781005|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_520026385' by client 'hola'(id:22)
+2019-08-21 22:00:20.817585|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2986265728' by client 'hola'(id:22)
+2019-08-21 22:00:21.299162|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_685319600' by client 'hola'(id:22)
+2019-08-21 22:00:44.964368|INFO    |VirtualServerBase|1  |client disconnected 'hola'(id:22) reason 'reasonmsg=saliendo'
+2019-08-21 22:09:19.090254|INFO    |VirtualServerBase|1  |client connected 'asdgaads'(id:22) using a myTeamSpeak ID from 198.96.95.222:57935
+2019-08-21 22:12:53.207151|INFO    |VirtualServer |1  |client (id:22) was added to servergroup 'Rango Vrg'(id:6) by client 'lil Carlos'(id:8)
+2019-08-21 22:16:41.849319|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2019-08-21 22:16:41.849516|INFO    |VirtualServerBase|1  |client disconnected 'asdgaads'(id:22) reason 'reasonmsg=connection lost'
+2019-08-21 22:21:41.224087|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=me fui con tu mamà'
+2019-08-21 22:24:11.763772|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.140.99:58730
+2019-08-21 22:25:23.289097|INFO    |VirtualServerBase|1  |client connected 'janna'(id:4) from 179.25.183.227:57693
+2019-08-21 22:25:39.576611|INFO    |VirtualServerBase|1  |client disconnected 'janna'(id:4) reason 'reasonmsg=saliendo'
+2019-08-21 22:54:10.532140|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2019-08-21 22:54:10.532314|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=connection lost'
+2019-08-21 22:54:29.955699|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.140.99:58730
+2019-08-21 23:15:42.439579|INFO    |VirtualServerBase|1  |client connected 'janna'(id:4) from 179.25.183.227:55507
+2019-08-21 23:17:11.172118|INFO    |VirtualServerBase|1  |client connected '▶ lil r ◀'(id:7) from 190.84.217.156:50482
+2019-08-21 23:20:43.138846|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2019-08-21 23:20:43.139038|INFO    |PktHandler    |1  |Dropping client 2 because of resend timeout
+2019-08-21 23:20:43.139128|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=connection lost'
+2019-08-21 23:22:24.757942|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.140.99:58730
+2019-08-21 23:24:21.917903|INFO    |PktHandler    |1  |Cleaning up connection because of 3 resends of COMMAND packet
+2019-08-21 23:24:21.918012|INFO    |PktHandler    |1  |Dropping client 8 because of resend timeout
+2019-08-21 23:24:21.918057|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=connection lost'
+2019-08-21 23:24:58.092753|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.140.99:58730
+2019-08-21 23:37:26.668839|INFO    |PktHandler    |1  |Cleaning up connection because of 7 resends of COMMAND packet
+2019-08-21 23:37:26.669024|INFO    |PktHandler    |1  |Dropping client 9 because of resend timeout
+2019-08-21 23:37:26.669095|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=connection lost'
+2019-08-21 23:38:06.011055|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.140.99:58730
+2019-08-21 23:38:41.660958|INFO    |PktHandler    |1  |Cleaning up connection because of 5 resends of COMMAND packet
+2019-08-21 23:38:41.661110|INFO    |PktHandler    |1  |Dropping client 10 because of resend timeout
+2019-08-21 23:38:41.661183|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=connection lost'
+2019-08-21 23:38:45.614045|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.140.99:58730
+2019-08-21 23:43:07.098301|INFO    |VirtualServerBase|1  |channel 'konequisde'(id:7) edited by 'janna'(id:4)
+2019-08-21 23:43:08.072743|INFO    |VirtualServer |1  |client 'TuGfa4x4'(id:9) was added to channelgroup 'Invitado'(id:8) by client 'janna'(id:4) in channel 'benesuelazoz channel'(id:6)
+2019-08-21 23:43:08.928961|INFO    |VirtualServer |1  |client 'lil Luchaina'(id:5) was added to channelgroup 'Líder'(id:9) by client 'janna'(id:4) in channel 'la luchaina, el ozo y el hornitorrinko'(id:10)
+2019-08-21 23:43:13.577003|INFO    |VirtualServer |1  |client 'lil Luchaina'(id:5) was added to channelgroup 'Líder'(id:9) by client 'janna'(id:4) in channel 'la luchaina, el ozo y el hornitorrinko'(id:10)
+2019-08-21 23:43:31.789169|INFO    |PktHandler    |1  |Cleaning up connection because of 6 resends of COMMAND packet
+2019-08-21 23:43:31.789270|INFO    |PktHandler    |1  |Dropping client 11 because of resend timeout
+2019-08-21 23:43:31.789344|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=connection lost'
+2019-08-21 23:43:58.479827|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.140.99:58730
+2019-08-21 23:43:58.625496|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.51.0:47026
+2019-08-21 23:44:35.982212|INFO    |VirtualServer |1  |client (id:4) was removed from servergroup 'Rango Vrg'(id:6) by client 'lil Carlos'(id:8)
+2019-08-21 23:44:47.081417|INFO    |PktHandler    |1  |Cleaning up connection because of 10 resends of COMMAND packet
+2019-08-21 23:44:47.081604|INFO    |PktHandler    |1  |Dropping client 12 because of resend timeout
+2019-08-21 23:44:47.081702|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=connection lost'
+2019-08-21 23:45:30.386264|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.140.99:51005
+2019-08-21 23:45:59.861808|INFO    |VirtualServerBase|1  |client disconnected 'TuGfa4x4'(id:9) reason 'invokerid=7 invokername=ConnexD invokeruid=cnF9dWpoVNVWm234YHWfb39Izxw= reasonmsg'
+2019-08-21 23:49:35.165917|INFO    |VirtualServerBase|1  |client disconnected 'janna'(id:4) reason 'reasonmsg=saliendo'
+2019-08-22 00:29:06.325861|INFO    |PktHandler    |1  |Dropping client 14 because of ping timeout 19 0 0
+2019-08-22 00:29:06.326044|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=connection lost'
+2019-08-22 00:30:49.932025|INFO    |VirtualServerBase|1  |client connected 'lordwephia'(id:13) using a myTeamSpeak ID from 177.228.11.115:29530
+2019-08-22 00:33:44.754573|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.140.99:51005
+2019-08-22 00:50:05.514952|INFO    |VirtualServerBase|1  |client connected 'TuGfa4x4'(id:9) from 189.144.115.51:53695
+2019-08-22 00:50:24.451060|INFO    |VirtualServerBase|1  |client disconnected 'TuGfa4x4'(id:9) reason 'reasonmsg=Me llevo a tu hermana'
+2019-08-22 00:58:04.359293|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2019-08-22 00:58:04.359524|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=connection lost'
+2019-08-22 01:11:27.395689|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.140.99:62972
+2019-08-22 01:24:51.248514|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2019-08-22 01:24:51.248749|INFO    |VirtualServerBase|1  |client disconnected '▶ lil r ◀'(id:7) reason 'reasonmsg=connection lost'
+2019-08-22 01:27:19.285085|INFO    |VirtualServerBase|1  |client connected '▶ lil r ◀'(id:7) from 190.84.217.156:50482
+2019-08-22 01:49:04.415937|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=me fui con tu mamà'
+2019-08-22 01:52:31.186753|INFO    |VirtualServerBase|1  |client disconnected 'lordwephia'(id:13) reason 'reasonmsg=saliendo'
+2019-08-22 02:12:37.561978|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2019-08-22 02:12:37.562148|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=connection lost'
+2019-08-22 02:15:11.774787|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.140.99:62972
+2019-08-22 02:20:24.601006|INFO    |VirtualServerBase|1  |client disconnected 'ConnexD'(id:2) reason 'reasonmsg=saliendo'
+2019-08-22 02:20:44.134942|INFO    |VirtualServerBase|1  |client connected 'ConnexD'(id:2) using a myTeamSpeak ID from 187.253.123.123:39287
+2019-08-22 02:21:33.079502|INFO    |VirtualServerBase|1  |client disconnected 'Black'(id:14) reason 'reasonmsg=saliendo'
+2019-08-22 02:22:58.831646|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=saliendo'
+2019-08-22 02:35:51.628875|INFO    |VirtualServerBase|1  |client connected 'janna'(id:4) from 179.25.183.227:56825
+2019-08-22 02:35:56.549340|INFO    |VirtualServerBase|1  |client disconnected 'janna'(id:4) reason 'reasonmsg=saliendo'
+2019-08-22 02:57:43.590050|INFO    |VirtualServerBase|1  |client disconnected '▶ lil r ◀'(id:7) reason 'reasonmsg=saliendo'
+2019-08-22 03:13:20.153785|INFO    |VirtualServerBase|1  |client connected 'TuGfa4x4'(id:9) from 189.144.115.51:64341
+2019-08-22 03:13:38.442558|INFO    |VirtualServerBase|1  |client disconnected 'TuGfa4x4'(id:9) reason 'reasonmsg=Me llevo a tu hermana'
+2019-08-22 03:14:48.800867|INFO    |VirtualServerBase|1  |client disconnected 'lil kbro'(id:11) reason 'reasonmsg=saliendo'
+2019-08-22 03:20:02.388100|INFO    |VirtualServerBase|1  |client disconnected 'ConnexD'(id:2) reason 'reasonmsg=saliendo'
+2019-08-22 03:24:47.756257|INFO    |VirtualServerBase|1  |client connected 'Black'(id:14) from 186.147.180.165:53007
+2019-08-22 04:18:02.273303|INFO    |VirtualServerBase|1  |client connected 'janna'(id:4) from 179.25.183.227:63003
+2019-08-22 04:18:04.374398|INFO    |VirtualServerBase|1  |client disconnected 'janna'(id:4) reason 'reasonmsg=saliendo'
+2019-08-22 04:24:55.227873|INFO    |VirtualServerBase|1  |client disconnected 'Black'(id:14) reason 'reasonmsg=saliendo'
+2019-08-22 15:40:23.601206|INFO    |VirtualServerBase|1  |client connected '▶ lil r ◀'(id:7) from 190.84.217.156:53808
+2019-08-22 16:37:50.422819|INFO    |VirtualServerBase|1  |client connected 'Black'(id:14) from 186.147.180.165:55308
+2019-08-22 16:41:45.400416|INFO    |VirtualServerBase|1  |client connected 'lil kbro'(id:11) from 200.83.219.62:63151
+2019-08-22 18:19:24.289257|INFO    |VirtualServerBase|1  |client disconnected '▶ lil r ◀'(id:7) reason 'reasonmsg=saliendo'
+2019-08-22 18:19:26.490973|INFO    |VirtualServerBase|1  |client connected 'TuGfa4x4'(id:9) from 189.144.115.51:57759
+2019-08-22 19:23:03.766757|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.51.0:47043
+2019-08-22 19:24:48.056544|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.140.99:59546
+2019-08-22 20:16:02.729703|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=me fui con tu mamà'
+2019-08-22 20:41:23.594704|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=saliendo'
+2019-08-22 20:45:04.922966|INFO    |VirtualServerBase|1  |client connected 'janna'(id:4) from 167.56.174.45:61538
+2019-08-22 20:45:08.180459|INFO    |VirtualServerBase|1  |client disconnected 'janna'(id:4) reason 'reasonmsg=saliendo'
+2019-08-22 20:58:43.324957|INFO    |VirtualServerBase|1  |client disconnected 'Black'(id:14) reason 'reasonmsg=saliendo'
+2019-08-22 21:14:17.936594|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.140.99:59433
+2019-08-22 21:16:51.281652|INFO    |VirtualServerBase|1  |client connected 'lordwephia'(id:13) using a myTeamSpeak ID from 177.228.11.115:46874
+2019-08-22 21:18:45.533816|INFO    |VirtualServerBase|1  |client connected 'ConnexD'(id:2) using a myTeamSpeak ID from 201.175.202.191:64312
+2019-08-22 21:18:45.912560|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4018690437' by client 'ConnexD'(id:2)
+2019-08-22 21:18:54.072205|INFO    |VirtualServerBase|1  |client disconnected 'ConnexD'(id:2) reason 'reasonmsg=....TS3 Android....'
+2019-08-22 21:20:05.962268|INFO    |VirtualServerBase|1  |client connected 'Black'(id:14) from 186.147.180.165:62373
+2019-08-22 21:31:42.955823|INFO    |VirtualServer |1  |client (id:11) was added to servergroup 'Rango Vrg'(id:6) by client 'Black'(id:14)
+2019-08-22 21:37:05.336222|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.51.0:47026
+2019-08-22 21:42:09.639179|INFO    |VirtualServerBase|1  |client connected 'janna'(id:4) from 167.56.174.45:63284
+2019-08-22 21:43:47.723560|INFO    |VirtualServerBase|1  |client disconnected 'bolitalima'(id:4) reason 'reasonmsg=saliendo'
+2019-08-22 21:48:32.938098|INFO    |VirtualServerBase|1  |client disconnected 'lil kbro'(id:11) reason 'reasonmsg=saliendo'
+2019-08-22 21:52:10.059076|INFO    |VirtualServerBase|1  |client disconnected 'lordwephia'(id:13) reason 'reasonmsg=saliendo'
+2019-08-22 21:58:06.256732|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2019-08-22 21:58:06.256954|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=connection lost'
+2019-08-22 22:00:02.857114|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.51.0:24666
+2019-08-22 22:40:28.380508|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=me fui con tu mamà'
+2019-08-22 22:49:29.772491|INFO    |VirtualServerBase|1  |client connected 'ConnexD'(id:2) using a myTeamSpeak ID from 187.253.123.123:1287
+2019-08-22 22:54:17.749858|INFO    |VirtualServerBase|1  |client connected 'lil kbro'(id:11) from 200.83.219.62:63151
+2019-08-22 23:17:13.498915|INFO    |VirtualServerBase|1  |client connected 'Conny♥'(id:17) from 190.215.30.24:49658
+2019-08-22 23:17:16.252511|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1665593403' by client 'Conny♥'(id:17)
+2019-08-22 23:54:24.739820|INFO    |VirtualServerBase|1  |client 'ConnexD'(id:2) changed myTeamSpeak ID
+2019-08-23 00:36:05.307777|INFO    |VirtualServerBase|1  |client disconnected 'ConnexD'(id:2) reason 'reasonmsg=saliendo'
+2019-08-23 00:47:24.310813|INFO    |VirtualServerBase|1  |client disconnected 'lil kbro'(id:11) reason 'reasonmsg=saliendo'
+2019-08-23 01:11:40.703431|INFO    |VirtualServerBase|1  |client connected 'ConnexD'(id:2) using a myTeamSpeak ID from 187.253.123.123:11812
+2019-08-23 01:21:04.645067|INFO    |VirtualServerBase|1  |client disconnected 'Black'(id:14) reason 'reasonmsg=saliendo'
+2019-08-23 01:29:21.550676|INFO    |VirtualServerBase|1  |client disconnected 'Conny♥'(id:17) reason 'reasonmsg=saliendo'
+2019-08-23 01:30:16.425120|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=saliendo'
+2019-08-23 01:30:17.084631|INFO    |VirtualServerBase|1  |client disconnected 'TuGfa4x4'(id:9) reason 'reasonmsg=Me llevo a tu hermana'
+2019-08-23 01:34:05.400909|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.51.0:40834
+2019-08-23 01:34:13.426122|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=me fui con tu mamà'
+2019-08-23 01:52:01.577599|INFO    |VirtualServerBase|1  |client connected 'Black'(id:14) from 186.147.180.165:60188
+2019-08-23 02:13:13.904435|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.51.0:47036
+2019-08-23 02:21:04.915918|INFO    |VirtualServerBase|1  |client connected '▶ lil r ◀'(id:7) from 190.84.217.156:56436
+2019-08-23 02:31:49.508824|INFO    |VirtualServerBase|1  |client connected 'TuGfa4x4'(id:9) from 189.144.115.51:51275
+2019-08-23 02:37:19.777631|INFO    |VirtualServer |1  |query client connected 'Unknown'(id:3) from 37.59.31.160:36284
+2019-08-23 02:37:20.016562|INFO    |VirtualServerBase|1  |query client disconnected 'Unknown'(id:3) reason 'reasonmsg=disconnecting'
+2019-08-23 02:56:31.355292|INFO    |VirtualServerBase|1  |client disconnected 'Black'(id:14) reason 'reasonmsg=saliendo'
+2019-08-23 03:02:26.574125|INFO    |VirtualServerBase|1  |client connected 'Black'(id:14) from 186.147.180.165:53056
+2019-08-23 03:15:27.798127|INFO    |VirtualServerBase|1  |client connected 'lil kbro'(id:11) from 200.83.219.62:61905
+2019-08-23 03:55:47.593908|INFO    |VirtualServerBase|1  |client disconnected '▶ lil r ◀'(id:7) reason 'reasonmsg=saliendo'
+2019-08-23 03:57:35.534901|INFO    |VirtualServerBase|1  |client disconnected 'TuGfa4x4'(id:9) reason 'reasonmsg=Me llevo a tu hermana'
+2019-08-23 04:22:08.668591|INFO    |VirtualServerBase|1  |client disconnected 'lil kbro'(id:11) reason 'reasonmsg=saliendo'
+2019-08-23 04:24:59.108207|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=me fui con tu mamà'
+2019-08-23 05:23:23.498798|INFO    |VirtualServerBase|1  |client disconnected 'ConnexD'(id:2) reason 'reasonmsg=saliendo'
+2019-08-23 05:23:56.108003|INFO    |VirtualServerBase|1  |client disconnected 'Black'(id:14) reason 'reasonmsg=saliendo'
+2019-08-23 16:45:50.224662|INFO    |VirtualServerBase|1  |client connected 'Black'(id:14) from 186.147.180.165:60959
+2019-08-23 18:57:24.038187|INFO    |VirtualServerBase|1  |client connected 'Lil Vzla'(id:6) using a myTeamSpeak ID from 201.208.239.136:49363
+2019-08-23 18:57:41.760932|INFO    |VirtualServerBase|1  |client disconnected 'Lil Vzla'(id:6) reason 'reasonmsg=Just another typical disconnection message.'
+2019-08-23 18:57:53.809262|INFO    |VirtualServerBase|1  |client connected 'TuGfa4x4'(id:9) from 189.144.115.51:61727
+2019-08-23 18:58:02.246523|INFO    |VirtualServerBase|1  |client disconnected 'TuGfa4x4'(id:9) reason 'reasonmsg=Me llevo a tu hermana'
+2019-08-23 19:11:08.457969|INFO    |VirtualServerBase|1  |client connected 'Lil Vzla'(id:6) using a myTeamSpeak ID from 201.208.239.136:53351
+2019-08-23 19:32:31.988233|INFO    |VirtualServerBase|1  |client connected 'lil kbro'(id:11) from 200.83.219.62:49900
+2019-08-23 20:06:07.205895|INFO    |PktHandler    |1  |Cleaning up connection because of 6 resends of COMMAND packet
+2019-08-23 20:06:07.206435|INFO    |PktHandler    |1  |Dropping client 2 because of resend timeout
+2019-08-23 20:06:07.206581|INFO    |VirtualServerBase|1  |client disconnected 'Lil Vzla'(id:6) reason 'reasonmsg=connection lost'
+2019-08-23 20:06:14.645354|INFO    |VirtualServerBase|1  |client connected 'Lil Vzla'(id:6) using a myTeamSpeak ID from 201.208.239.136:1024
+2019-08-23 20:07:52.107117|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2019-08-23 20:07:52.107241|INFO    |VirtualServerBase|1  |client disconnected 'Lil Vzla'(id:6) reason 'reasonmsg=connection lost'
+2019-08-23 20:08:00.635432|INFO    |VirtualServerBase|1  |client connected 'Lil Vzla'(id:6) using a myTeamSpeak ID from 201.208.239.136:1024
+2019-08-23 20:08:28.338466|INFO    |VirtualServerBase|1  |client connected 'TuGfa4x4'(id:9) from 189.144.115.51:62272
+2019-08-23 20:16:38.908438|INFO    |VirtualServerBase|1  |channel 'la luchaina, el ozo y EL PUTO PATO'(id:10) edited by 'Lil Vzla'(id:6)
+2019-08-23 20:17:24.166532|INFO    |VirtualServerBase|1  |channel 'la luchaina, el ozo y EL PUTO PATO'(id:10) edited by 'Lil Vzla'(id:6)
+2019-08-23 20:36:21.011491|INFO    |VirtualServerBase|1  |client disconnected 'Lil Vzla'(id:6) reason 'reasonmsg=Just another typical disconnection message.'
+2019-08-23 20:50:11.419704|INFO    |VirtualServerBase|1  |client connected '▶ lil r ◀'(id:7) from 190.84.217.156:52197
+2019-08-23 21:43:48.665591|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.51.0:49913
+2019-08-23 21:48:53.458361|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:4406
+2019-08-23 21:53:27.553095|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=saliendo'
+2019-08-23 22:00:22.629447|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:2050
+2019-08-23 22:03:24.941553|INFO    |VirtualServerBase|1  |client disconnected 'lil kbro'(id:11) reason 'reasonmsg=saliendo'
+2019-08-23 22:05:42.727804|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=me fui con tu mamà'
+2019-08-23 22:07:06.841820|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.51.0:49912
+2019-08-23 22:10:56.058475|INFO    |VirtualServerBase|1  |client connected 'lil kbro'(id:11) from 200.83.219.62:53013
+2019-08-23 22:11:21.975195|INFO    |VirtualServerBase|1  |client disconnected 'lil kbro'(id:11) reason 'reasonmsg=saliendo'
+2019-08-23 22:11:39.836012|INFO    |VirtualServerBase|1  |client connected 'lil kbro'(id:11) from 200.83.219.62:59541
+2019-08-23 22:13:14.259558|INFO    |PktHandler    |1  |Dropping client 11 because of ping timeout 19 0 0
+2019-08-23 22:13:14.260565|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=connection lost'
+2019-08-23 22:13:54.793724|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.51.0:49912
+2019-08-23 22:16:01.876390|INFO    |VirtualServerBase|1  |client disconnected 'Hombre patriarcal'(id:10) reason 'reasonmsg=saliendo'
+2019-08-23 22:35:19.451815|INFO    |VirtualServerBase|1  |client connected 'janna'(id:4) from 179.25.38.65:54795
+2019-08-23 22:38:00.414762|INFO    |VirtualServerBase|1  |client disconnected 'asd'(id:4) reason 'reasonmsg=saliendo'
+2019-08-23 22:39:19.792074|INFO    |VirtualServerBase|1  |client disconnected 'lil kbro'(id:11) reason 'reasonmsg=saliendo'
+2019-08-23 22:47:05.871755|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=me fui con tu mamà'
+2019-08-23 23:21:38.063049|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.148.14:59118
+2019-08-23 23:33:31.743246|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=saliendo'
+2019-08-23 23:44:29.321601|INFO    |VirtualServerBase|1  |client connected 'janna'(id:4) from 179.25.38.65:60059
+2019-08-23 23:47:00.024619|INFO    |VirtualServerBase|1  |client disconnected 'janna'(id:4) reason 'reasonmsg=saliendo'
+2019-08-24 00:15:15.794934|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.148.14:53102
+2019-08-24 00:40:39.937782|INFO    |VirtualServerBase|1  |client connected 'janna'(id:4) from 179.25.38.65:57415
+2019-08-24 00:44:41.581598|INFO    |VirtualServerBase|1  |client disconnected 'TuGfa4x4'(id:9) reason 'reasonmsg=Me llevo a tu hermana'
+2019-08-24 00:46:33.644093|INFO    |VirtualServerBase|1  |client connected 'ConnexD'(id:2) using a myTeamSpeak ID from 187.253.123.123:41153
+2019-08-24 00:46:57.690004|INFO    |VirtualServer |1  |client (id:4) was added to servergroup 'Rango Vrg'(id:6) by client 'lil Luchaina'(id:5)
+2019-08-24 00:50:47.930717|INFO    |PktHandler    |1  |Cleaning up connection because of 10 resends of COMMAND packet
+2019-08-24 00:50:47.930826|INFO    |PktHandler    |1  |Dropping client 5 because of resend timeout
+2019-08-24 00:50:47.930884|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=connection lost'
+2019-08-24 00:51:48.869344|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.148.14:53102
+2019-08-24 00:59:09.102655|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=saliendo'
+2019-08-24 01:07:12.058227|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.148.14:60610
+2019-08-24 01:10:55.983290|INFO    |VirtualServerBase|1  |client disconnected 'asd'(id:4) reason 'reasonmsg=saliendo'
+2019-08-24 01:33:21.567995|INFO    |VirtualServerBase|1  |client connected 'lil kbro'(id:11) from 200.83.219.62:59541
+2019-08-24 01:38:30.516936|INFO    |VirtualServerBase|1  |client disconnected '▶ lil r ◀'(id:7) reason 'reasonmsg=saliendo'
+2019-08-24 02:21:22.161063|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.51.0:59113
+2019-08-24 02:26:30.396470|INFO    |VirtualServerBase|1  |client connected 'janna'(id:4) from 179.25.38.65:52707
+2019-08-24 02:47:57.485228|INFO    |VirtualServerBase|1  |client disconnected 'janna'(id:4) reason 'reasonmsg=saliendo'
+2019-08-24 03:06:10.158893|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2019-08-24 03:06:10.159191|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=connection lost'
+2019-08-24 03:24:53.370656|INFO    |VirtualServerBase|1  |client disconnected 'Black'(id:14) reason 'reasonmsg=saliendo'
+2019-08-24 03:25:08.264712|INFO    |VirtualServerBase|1  |client disconnected 'lil kbro'(id:11) reason 'reasonmsg=saliendo'
+2019-08-24 03:27:19.250526|INFO    |VirtualServerBase|1  |client disconnected 'ConnexD'(id:2) reason 'reasonmsg=saliendo'
+2019-08-24 03:27:34.227386|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=me fui con tu mamà'
+2019-08-24 03:41:39.393236|INFO    |VirtualServerBase|1  |client connected 'lordwephia'(id:13) using a myTeamSpeak ID from 177.228.11.115:6095
+2019-08-24 03:41:43.358761|INFO    |VirtualServerBase|1  |client disconnected 'lordwephia'(id:13) reason 'reasonmsg=saliendo'
+2019-08-24 15:17:11.664768|INFO    |VirtualServerBase|1  |client connected 'TuGfa4x4'(id:9) from 189.144.141.206:61255
+2019-08-24 15:34:03.919811|INFO    |VirtualServerBase|1  |client disconnected 'TuGfa4x4'(id:9) reason 'reasonmsg=Me llevo a tu hermana'
+2019-08-24 16:41:48.773499|INFO    |VirtualServerBase|1  |client connected 'janna'(id:4) from 179.25.37.146:53343
+2019-08-24 16:42:06.216633|INFO    |VirtualServerBase|1  |client disconnected 'janna'(id:4) reason 'reasonmsg=saliendo'
+2019-08-24 16:44:50.633950|INFO    |VirtualServerBase|1  |client connected 'TuGfa4x4'(id:9) from 189.144.141.206:51149
+2019-08-24 16:44:58.067376|INFO    |VirtualServerBase|1  |client disconnected 'TuGfa4x4'(id:9) reason 'reasonmsg=Me llevo a tu hermana'
+2019-08-24 17:03:17.833446|INFO    |VirtualServerBase|1  |client connected 'TuGfa4x4'(id:9) from 189.144.141.206:62032
+2019-08-24 17:03:28.003705|INFO    |VirtualServerBase|1  |client disconnected 'TuGfa4x4'(id:9) reason 'reasonmsg=Me llevo a tu hermana'
+2019-08-24 18:07:39.129959|INFO    |VirtualServerBase|1  |client connected 'janna'(id:4) from 179.25.37.146:60318
+2019-08-24 18:07:46.997923|INFO    |VirtualServerBase|1  |client connected 'TuGfa4x4'(id:9) from 189.144.141.206:49779
+2019-08-24 18:40:17.912607|INFO    |VirtualServerBase|1  |client disconnected 'janna'(id:4) reason 'reasonmsg=saliendo'
+2019-08-24 18:48:25.267585|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:5903
+2019-08-24 18:48:31.818614|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=saliendo'
+2019-08-24 19:09:10.602932|INFO    |VirtualServerBase|1  |client disconnected 'TuGfa4x4'(id:9) reason 'reasonmsg=Me llevo a tu hermana'
+2019-08-24 19:25:42.664848|INFO    |VirtualServerBase|1  |client connected '▶ lil r ◀'(id:7) from 190.84.217.156:58599
+2019-08-24 20:19:05.608494|INFO    |VirtualServerBase|1  |client connected 'janna'(id:4) from 179.25.52.186:63596
+2019-08-24 20:19:11.098108|INFO    |VirtualServerBase|1  |client disconnected 'janna'(id:4) reason 'reasonmsg=saliendo'
+2019-08-24 20:25:34.250050|INFO    |VirtualServerBase|1  |client connected 'lordwephia'(id:13) using a myTeamSpeak ID from 177.228.11.115:46169
+2019-08-24 20:40:02.565923|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:5819
+2019-08-24 20:41:28.236008|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=saliendo'
+2019-08-24 20:55:39.554870|INFO    |VirtualServerBase|1  |client disconnected 'lordwephia'(id:13) reason 'reasonmsg=saliendo'
+2019-08-24 21:09:17.930291|INFO    |VirtualServerBase|1  |client connected 'TuGfa4x4'(id:9) from 189.144.87.74:58977
+2019-08-24 21:17:30.825329|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:7986
+2019-08-24 21:28:56.017368|INFO    |VirtualServerBase|1  |client connected 'ConnexD'(id:2) using a myTeamSpeak ID from 187.253.123.123:58452
+2019-08-24 21:51:00.721114|INFO    |VirtualServerBase|1  |client connected 'Conny♥'(id:17) from 190.215.30.24:56888
+2019-08-24 21:52:07.376103|INFO    |VirtualServerBase|1  |client disconnected 'Conny♥'(id:17) reason 'reasonmsg=saliendo'
+2019-08-24 22:13:00.457074|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=saliendo'
+2019-08-24 22:42:11.216976|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:7297
+2019-08-24 22:53:42.460870|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=saliendo'
+2019-08-24 22:56:50.079950|INFO    |VirtualServerBase|1  |client disconnected '▶ lil r ◀'(id:7) reason 'reasonmsg=saliendo'
+2019-08-24 23:04:51.857919|INFO    |VirtualServerBase|1  |client connected 'Conny♥'(id:17) from 190.215.30.24:53935
+2019-08-24 23:05:04.374044|INFO    |VirtualServerBase|1  |client disconnected 'Conny♥'(id:17) reason 'reasonmsg=saliendo'
+2019-08-24 23:16:59.207075|INFO    |VirtualServerBase|1  |client connected 'janna'(id:4) from 179.25.52.186:59340
+2019-08-24 23:17:02.432353|INFO    |VirtualServerBase|1  |client disconnected 'janna'(id:4) reason 'reasonmsg=saliendo'
+2019-08-25 00:20:03.971802|INFO    |VirtualServerBase|1  |client connected 'janna'(id:4) from 179.25.52.186:52621
+2019-08-25 00:20:05.715285|INFO    |VirtualServerBase|1  |client disconnected 'janna'(id:4) reason 'reasonmsg=saliendo'
+2019-08-25 00:28:42.746787|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:12670
+2019-08-25 00:28:48.180443|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=saliendo'
+2019-08-25 00:35:40.537601|INFO    |VirtualServerBase|1  |client connected 'janna'(id:4) from 179.25.52.186:56301
+2019-08-25 00:55:54.805868|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.148.14:53034
+2019-08-25 00:56:17.607077|INFO    |VirtualServerBase|1  |client connected '▶ lil r ◀'(id:7) from 190.84.217.156:64652
+2019-08-25 00:57:40.382247|INFO    |VirtualServerBase|1  |channel 'la luchaina, el ozo y EL PUTO PATO'(id:10) edited by 'lil Luchaina'(id:5)
+2019-08-25 01:08:42.882189|INFO    |VirtualServerBase|1  |client connected 'lordwephia'(id:13) using a myTeamSpeak ID from 177.228.11.115:29914
+2019-08-25 01:28:46.622700|INFO    |VirtualServerBase|1  |client disconnected 'lordwephia'(id:13) reason 'reasonmsg=saliendo'
+2019-08-25 02:00:51.639248|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2019-08-25 02:00:51.639549|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=connection lost'
+2019-08-25 02:04:48.000495|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.148.14:53034
+2019-08-25 02:10:16.937401|INFO    |VirtualServerBase|1  |client disconnected 'janna'(id:4) reason 'reasonmsg=saliendo'
+2019-08-25 02:12:34.238153|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:2156
+2019-08-25 02:21:18.420313|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=saliendo'
+2019-08-25 03:41:34.225582|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=saliendo'
+2019-08-25 03:53:49.805045|INFO    |VirtualServerBase|1  |client disconnected 'TuGfa4x4'(id:9) reason 'reasonmsg=Me llevo a tu hermana'
+2019-08-25 03:58:45.415472|INFO    |VirtualServerBase|1  |client disconnected '▶ lil r ◀'(id:7) reason 'reasonmsg=saliendo'
+2019-08-25 04:05:03.186778|INFO    |VirtualServerBase|1  |client disconnected 'ConnexD'(id:2) reason 'reasonmsg=saliendo'
+2019-08-25 04:36:50.519844|INFO    |VirtualServerBase|1  |client connected 'ConnexD'(id:2) using a myTeamSpeak ID from 187.253.123.123:44007
+2019-08-25 05:46:40.529475|INFO    |VirtualServerBase|1  |client disconnected 'ConnexD'(id:2) reason 'reasonmsg=saliendo'
+2019-08-25 06:29:34.057709|INFO    |VirtualServerBase|1  |client connected 'ConnexD'(id:2) using a myTeamSpeak ID from 187.253.123.123:10403
+2019-08-25 06:37:23.571959|INFO    |VirtualServerBase|1  |client connected 'janna'(id:4) from 179.25.102.63:60848
+2019-08-25 06:53:21.354415|INFO    |VirtualServerBase|1  |client disconnected 'janna'(id:4) reason 'reasonmsg=saliendo'
+2019-08-25 06:53:26.654528|INFO    |VirtualServerBase|1  |client disconnected 'ConnexD'(id:2) reason 'reasonmsg=saliendo'
+2019-08-25 15:52:16.348557|INFO    |VirtualServerBase|1  |client connected 'Lil Vzla'(id:6) using a myTeamSpeak ID from 201.242.200.5:61976
+2019-08-25 16:15:00.063283|INFO    |VirtualServerBase|1  |client connected 'lil kbro'(id:11) from 200.83.219.62:62726
+2019-08-25 16:18:05.495424|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:11388
+2019-08-25 16:25:01.921899|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=saliendo'
+2019-08-25 16:57:42.749647|INFO    |VirtualServerBase|1  |client connected 'ConnexD'(id:2) using a myTeamSpeak ID from 187.253.123.123:35130
+2019-08-25 17:25:54.161363|INFO    |VirtualServerBase|1  |client disconnected 'lil kbro'(id:11) reason 'reasonmsg=saliendo'
+2019-08-25 18:41:08.034284|INFO    |VirtualServerBase|1  |client disconnected 'ConnexD'(id:2) reason 'reasonmsg=saliendo'
+2019-08-25 19:04:28.050665|INFO    |VirtualServerBase|1  |client connected 'ConnexD'(id:2) using a myTeamSpeak ID from 187.253.123.123:10524
+2019-08-25 19:04:31.518552|INFO    |VirtualServerBase|1  |client disconnected 'ConnexD'(id:2) reason 'reasonmsg=saliendo'
+2019-08-25 19:13:06.166654|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:11259
+2019-08-25 19:13:10.573960|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=saliendo'
+2019-08-25 19:18:56.991557|INFO    |VirtualServerBase|1  |client connected 'ConnexD'(id:2) using a myTeamSpeak ID from 187.253.123.123:26676
+2019-08-25 19:18:59.764915|INFO    |VirtualServerBase|1  |client disconnected 'ConnexD'(id:2) reason 'reasonmsg=saliendo'
+2019-08-25 19:24:06.694701|INFO    |VirtualServerBase|1  |client connected 'janna'(id:4) from 179.26.109.207:60784
+2019-08-25 19:24:23.324913|INFO    |VirtualServerBase|1  |client disconnected 'janna'(id:4) reason 'reasonmsg=saliendo'
+2019-08-25 19:30:09.179200|INFO    |VirtualServerBase|1  |client connected 'Black'(id:14) from 186.147.180.165:58383
+2019-08-25 19:32:10.960109|INFO    |VirtualServerBase|1  |channel 'la luchaina, el ozo y el hornitorrinko'(id:10) edited by 'Black'(id:14)
+2019-08-25 19:37:30.234325|INFO    |VirtualServerBase|1  |client connected 'ConnexD'(id:2) using a myTeamSpeak ID from 187.253.123.123:25486
+2019-08-25 19:43:00.204296|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.51.0:6665
+2019-08-25 19:45:00.583051|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=me fui con tu mamà'
+2019-08-25 19:49:06.411648|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:11360
+2019-08-25 19:52:02.565475|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=saliendo'
+2019-08-25 20:05:08.373568|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:11206
+2019-08-25 20:05:14.577122|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=saliendo'
+2019-08-25 20:14:08.557449|INFO    |VirtualServerBase|1  |client connected 'janna'(id:4) from 179.26.109.207:64246
+2019-08-25 20:27:15.741473|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.51.0:47202
+2019-08-25 20:31:44.518521|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=me fui con tu mamà'
+2019-08-25 20:32:50.651587|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2019-08-25 20:32:50.651748|INFO    |VirtualServerBase|1  |client disconnected 'Lil Vzla'(id:6) reason 'reasonmsg=connection lost'
+2019-08-25 20:34:57.202862|INFO    |VirtualServerBase|1  |client disconnected 'janna'(id:4) reason 'reasonmsg=saliendo'
+2019-08-25 20:35:32.436433|INFO    |VirtualServerBase|1  |client disconnected 'ConnexD'(id:2) reason 'reasonmsg=saliendo'
+2019-08-25 20:35:54.353031|INFO    |VirtualServerBase|1  |client connected 'Lil Vzla'(id:6) using a myTeamSpeak ID from 201.242.200.5:61976
+2019-08-25 20:37:59.522512|INFO    |VirtualServerBase|1  |channel 'la luchaina, el ozo y el maldito pat0'(id:10) edited by 'Lil Vzla'(id:6)
+2019-08-25 20:40:42.215763|INFO    |VirtualServerBase|1  |client connected 'lil kbro'(id:11) from 200.83.219.62:54767
+2019-08-25 21:43:11.021242|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.148.62:64046
+2019-08-25 21:48:28.106531|INFO    |VirtualServerBase|1  |client connected 'ConnexD'(id:2) using a myTeamSpeak ID from 187.253.123.123:22336
+2019-08-25 22:02:42.299238|INFO    |VirtualServerBase|1  |channel 'Lucho, el ozo y el maldito pat0'(id:10) edited by 'Black'(id:14)
+2019-08-25 22:03:13.833448|INFO    |VirtualServerBase|1  |channel 'La luchaina, el ozo y el maldito pat0'(id:10) edited by 'Black'(id:14)
+2019-08-25 22:03:37.181388|INFO    |VirtualServerBase|1  |client disconnected 'Black'(id:14) reason 'reasonmsg=saliendo'
+2019-08-25 22:04:08.939960|INFO    |PktHandler    |1  |Cleaning up connection because of 10 resends of COMMAND packet
+2019-08-25 22:04:08.940142|INFO    |PktHandler    |1  |Dropping client 9 because of resend timeout
+2019-08-25 22:04:08.940250|INFO    |VirtualServerBase|1  |client disconnected 'Lil Vzla'(id:6) reason 'reasonmsg=connection lost'
+2019-08-25 22:05:32.018744|INFO    |VirtualServerBase|1  |client connected 'Lil Vzla'(id:6) using a myTeamSpeak ID from 201.242.200.5:61976
+2019-08-25 22:09:30.567565|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:11358
+2019-08-25 22:09:48.314129|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=saliendo'
+2019-08-25 22:18:23.341713|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2019-08-25 22:18:23.341839|INFO    |PktHandler    |1  |Dropping client 4 because of resend timeout
+2019-08-25 22:18:23.341899|INFO    |VirtualServerBase|1  |client disconnected 'Lil internet venezolano'(id:6) reason 'reasonmsg=connection lost'
+2019-08-25 22:19:41.878511|INFO    |VirtualServerBase|1  |client connected 'Lil internet venezolano'(id:6) using a myTeamSpeak ID from 201.242.200.5:61976
+2019-08-25 22:34:27.179161|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2019-08-25 22:34:27.179325|INFO    |VirtualServerBase|1  |client disconnected 'Lil internet venezolano'(id:6) reason 'reasonmsg=connection lost'
+2019-08-25 22:35:50.327522|INFO    |VirtualServerBase|1  |client connected 'Lil internet venezolano'(id:6) using a myTeamSpeak ID from 201.242.200.5:1024
+2019-08-25 22:36:41.338755|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2019-08-25 22:36:41.338942|INFO    |VirtualServerBase|1  |client disconnected 'Lil internet venezolano'(id:6) reason 'reasonmsg=connection lost'
+2019-08-25 22:36:49.861858|INFO    |VirtualServerBase|1  |client connected 'Lil internet venezolano'(id:6) using a myTeamSpeak ID from 201.242.200.5:61976
+2019-08-25 22:37:28.692011|INFO    |VirtualServerBase|1  |client connected 'lil Carlos'(id:8) from 200.66.51.0:6669
+2019-08-25 22:43:08.751846|INFO    |VirtualServerBase|1  |client disconnected 'lil kbro'(id:11) reason 'reasonmsg=saliendo'
+2019-08-25 22:44:31.764160|INFO    |VirtualServerBase|1  |client connected 'Lil internet venezolano1'(id:6) using a myTeamSpeak ID from 201.242.200.5:61976
+2019-08-25 22:44:34.832966|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2019-08-25 22:44:34.833158|INFO    |VirtualServerBase|1  |client disconnected 'Lil internet venezolano'(id:6) reason 'reasonmsg=connection lost'
+2019-08-25 22:46:28.278501|INFO    |VirtualServerBase|1  |client disconnected 'Lil internet venezolano1'(id:6) reason 'reasonmsg=Just another typical disconnection message.'
+2019-08-25 23:07:12.334121|INFO    |VirtualServerBase|1  |client connected 'Conny♥'(id:17) from 190.215.30.24:56920
+2019-08-25 23:13:28.749144|INFO    |VirtualServerBase|1  |client connected 'Black'(id:14) from 186.147.180.165:55622
+2019-08-25 23:58:24.126152|INFO    |VirtualServerBase|1  |client 'ConnexD'(id:2) changed myTeamSpeak ID
+2019-08-26 00:01:43.023592|INFO    |VirtualServerBase|1  |client disconnected 'lil Carlos'(id:8) reason 'reasonmsg=me fui con tu mamà'
+2019-08-26 00:27:59.979854|INFO    |VirtualServerBase|1  |client connected '▶ lil r ◀'(id:7) from 190.84.217.156:56082
+2019-08-26 00:39:41.049360|INFO    |VirtualServerBase|1  |client disconnected 'Conny♥'(id:17) reason 'reasonmsg=saliendo'
+2019-08-26 00:51:57.290009|INFO    |VirtualServerBase|1  |channel 'La luchaina, el ozo y el maldito pat0'(id:10) edited by 'Black'(id:14)
+2019-08-26 00:52:02.239742|INFO    |VirtualServer |1  |client (id:5) was removed from servergroup 'Rango Vrg'(id:6) by client 'Black'(id:14)
+2019-08-26 00:52:10.813234|INFO    |VirtualServer |1  |client (id:5) was added to servergroup 'Rango Vrg'(id:6) by client 'Black'(id:14)
+2019-08-26 00:52:18.613687|INFO    |VirtualServerBase|1  |channel 'La luchaina, el ozo y el maldito pat0'(id:10) edited by 'Black'(id:14)
+2019-08-26 00:56:15.053774|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2019-08-26 00:56:15.053959|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=connection lost'
+2019-08-26 00:57:16.682044|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.148.62:57233
+2019-08-26 01:18:33.425857|INFO    |VirtualServerBase|1  |client disconnected '▶ lil r ◀'(id:7) reason 'reasonmsg=saliendo'
+2019-08-26 01:31:39.642548|INFO    |VirtualServerBase|1  |client connected '▶ lil r ◀'(id:7) from 190.84.217.156:59976
+2019-08-26 01:34:14.469936|INFO    |VirtualServerBase|1  |client connected 'Lil internet venezolano'(id:6) using a myTeamSpeak ID from 201.242.200.5:55479
+2019-08-26 02:04:50.008059|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=saliendo'
+2019-08-26 02:05:11.240892|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2019-08-26 02:05:11.241053|INFO    |VirtualServerBase|1  |client disconnected 'Lil internet venezolano'(id:6) reason 'reasonmsg=connection lost'
+2019-08-26 02:06:31.395610|INFO    |VirtualServerBase|1  |client connected 'Lil internet venezolano'(id:6) using a myTeamSpeak ID from 201.242.200.5:55479
+2019-08-26 02:08:09.072304|INFO    |VirtualServerBase|1  |client disconnected 'ConnexD'(id:2) reason 'reasonmsg=saliendo'
+2019-08-26 02:08:22.434962|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2019-08-26 02:08:22.435099|INFO    |VirtualServerBase|1  |client disconnected 'Lil internet venezolano'(id:6) reason 'reasonmsg=connection lost'
+2019-08-26 02:09:37.894865|INFO    |VirtualServerBase|1  |client connected 'Lil internet venezolano'(id:6) using a myTeamSpeak ID from 201.242.200.5:55479
+2019-08-26 02:15:27.619570|INFO    |VirtualServerBase|1  |client disconnected 'Black'(id:14) reason 'reasonmsg=saliendo'
+2019-08-26 02:25:05.069776|INFO    |VirtualServerBase|1  |client connected 'ConnexD'(id:2) using a myTeamSpeak ID from 187.253.123.123:24182
+2019-08-26 02:25:26.513443|INFO    |VirtualServerBase|1  |client disconnected 'ConnexD'(id:2) reason 'reasonmsg=saliendo'
+2019-08-26 02:46:13.936936|INFO    |VirtualServerBase|1  |client connected 'ConnexD'(id:2) using a myTeamSpeak ID from 187.253.123.123:56770
+2019-08-26 03:21:23.234618|INFO    |VirtualServerBase|1  |server was edited by 'Lil internet venezolano'(id:6)
+2019-08-26 03:29:13.656450|INFO    |VirtualServerBase|1  |client disconnected 'Lil internet venezolano'(id:6) reason 'reasonmsg=Just another typical disconnection message.'
+2019-08-26 03:44:23.573813|INFO    |VirtualServerBase|1  |server was edited by 'ConnexD'(id:2)
+2019-08-26 03:57:45.052316|INFO    |VirtualServerBase|1  |client disconnected 'ConnexD'(id:2) reason 'reasonmsg=saliendo'
+2019-08-26 03:57:45.474959|INFO    |VirtualServerBase|1  |client disconnected '▶ lil r ◀'(id:7) reason 'reasonmsg=saliendo'
+2019-08-26 16:32:12.909964|INFO    |VirtualServerBase|1  |client connected '▶ lil r ◀'(id:7) from 190.84.217.156:59857
+2019-08-26 18:11:37.235639|INFO    |VirtualServerBase|1  |client connected 'Black'(id:14) from 186.147.180.165:61882
+2019-08-26 19:49:59.834041|INFO    |VirtualServerBase|1  |client connected 'Lil internet venezolano'(id:6) using a myTeamSpeak ID from 201.242.200.5:64466
+2019-08-26 21:07:42.457566|INFO    |VirtualServerBase|1  |client connected 'lil kbro'(id:11) from 200.83.219.62:63750
+2019-08-26 21:33:38.118551|INFO    |VirtualServerBase|1  |server was edited by 'Lil internet venezolano'(id:6)
+2019-08-26 21:33:54.031110|INFO    |VirtualServerBase|1  |server was edited by 'Lil internet venezolano'(id:6)
+2019-08-26 21:35:32.178665|INFO    |VirtualServerBase|1  |client disconnected 'lil kbro'(id:11) reason 'invokerid=3 invokername=Lil internet venezolano invokeruid=cfnutzq69ZeCieBzcXRef3Q9HGI= reasonmsg=terrible, oremos'
+2019-08-26 21:35:45.510948|INFO    |VirtualServerBase|1  |client connected 'lil kbro'(id:11) from 200.83.219.62:63750
+2019-08-26 21:35:56.220910|INFO    |VirtualServerBase|1  |client disconnected 'lil kbro'(id:11) reason 'invokerid=3 invokername=Lil internet venezolano invokeruid=cfnutzq69ZeCieBzcXRef3Q9HGI= reasonmsg=no, L'
+2019-08-26 21:36:02.064460|INFO    |VirtualServerBase|1  |client connected 'lil kbro'(id:11) from 200.83.219.62:63750
+2019-08-26 21:36:15.240245|INFO    |VirtualServerBase|1  |client disconnected 'lil kbro'(id:11) reason 'invokerid=3 invokername=Lil internet venezolano invokeruid=cfnutzq69ZeCieBzcXRef3Q9HGI= reasonmsg=tengo 16 anios'
+2019-08-26 21:36:21.079194|INFO    |VirtualServerBase|1  |client connected 'lil kbro'(id:11) from 200.83.219.62:63750
+2019-08-26 21:37:13.546942|INFO    |VirtualServerBase|1  |client disconnected 'Black'(id:14) reason 'invokerid=3 invokername=Lil internet venezolano invokeruid=cfnutzq69ZeCieBzcXRef3Q9HGI= reasonmsg=callate -a-a-a-a-a-a-a-a-a-a'
+2019-08-26 21:37:24.550177|INFO    |VirtualServerBase|1  |client connected 'Black'(id:14) from 186.147.180.165:61882
+2019-08-26 21:37:52.358713|INFO    |VirtualServerBase|1  |client disconnected 'Lil internet venezolano'(id:6) reason 'invokerid=8 invokername=Black invokeruid=9e1BB/LBTah7ntS9Rd2FGchTN8I= reasonmsg=Ornitorriquea! A hacer ejercicio!'
+2019-08-26 21:39:24.228108|INFO    |VirtualServerBase|1  |client disconnected '▶ lil r ◀'(id:7) reason 'invokerid=8 invokername=Black invokeruid=9e1BB/LBTah7ntS9Rd2FGchTN8I= reasonmsg'
+2019-08-26 21:39:33.985152|INFO    |VirtualServerBase|1  |client connected '▶ lil r ◀'(id:7) from 190.84.217.156:59857
+2019-08-26 21:39:51.674630|INFO    |VirtualServer |1  |client (id:7) was removed from servergroup 'Rango Vrg'(id:6) by client 'Black'(id:14)
+2019-08-26 21:41:41.509961|INFO    |VirtualServer |1  |client (id:7) was added to servergroup 'Rango Vrg'(id:6) by client 'Black'(id:14)
+2019-08-26 21:48:17.664016|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:5861
+2019-08-26 21:52:43.303450|INFO    |VirtualServerBase|1  |client connected 'lil Luchaina'(id:5) from 181.170.148.62:63903
+2019-08-26 21:57:53.915847|INFO    |VirtualServerBase|1  |client disconnected 'lil Luchaina'(id:5) reason 'reasonmsg=saliendo'
+2019-08-26 22:18:21.284908|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=saliendo'
+2019-08-26 22:23:53.814913|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:11869
+2019-08-26 22:27:05.398651|INFO    |VirtualServerBase|1  |channel 'Osi osi Dulzura'(id:14) created by '---'(id:10)
+2019-08-26 22:27:05.508769|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:143) with values (value:312865639) was added by '---'(id:10) to channel 'Osi osi Dulzura'(id:14)
+2019-08-26 22:27:05.509497|INFO    |VirtualServerBase|1  |channel 'Osi osi Dulzura'(id:14) edited by '---'(id:10)
+2019-08-26 22:27:19.762753|INFO    |VirtualServerBase|1  |channel 'Osi osi Dulzura'(id:14) edited by '---'(id:10)
+2019-08-26 22:27:33.634388|INFO    |VirtualServerBase|1  |channel 'Osi osi Dulzura'(id:14) deleted by '---'(id:10)
+2019-08-26 22:28:14.249212|INFO    |VirtualServerBase|1  |channel 'osi osi dulzura'(id:15) created as sub channel of '[cspacer] ─> Canales Vrg <─'(id:5) by '---'(id:10)
+2019-08-26 22:28:14.363769|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:143) with values (value:312865639) was added by '---'(id:10) to channel 'osi osi dulzura'(id:15)
+2019-08-26 22:28:14.364505|INFO    |VirtualServerBase|1  |channel 'osi osi dulzura'(id:15) edited by '---'(id:10)
+2019-08-26 22:29:32.066977|INFO    |VirtualServerBase|1  |file upload to (id:0), '/icon_1298305841' by client '---'(id:10)
+2019-08-26 22:29:39.080577|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:143) with values (value:1298305841) was added by '---'(id:10) to channel 'osi osi dulzura'(id:15)
+2019-08-26 22:29:39.081464|INFO    |VirtualServerBase|1  |channel 'osi osi dulzura'(id:15) edited by '---'(id:10)
+2019-08-26 22:29:39.206949|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1298305841' by client 'Black'(id:14)
+2019-08-26 22:29:39.212910|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1298305841' by client '▶ lil r ◀'(id:7)
+2019-08-26 22:29:39.326371|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1298305841' by client 'lil kbro'(id:11)
+2019-08-26 22:30:16.517561|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:123) with values (value:100) was added by '---'(id:10) to channel 'osi osi dulzura'(id:15)
+2019-08-26 22:30:16.518266|INFO    |VirtualServer |1  |permission 'i_ft_needed_file_rename_power'(id:240) with values (value:100) was added by '---'(id:10) to channel 'osi osi dulzura'(id:15)
+2019-08-26 22:30:16.519060|INFO    |VirtualServer |1  |permission 'i_channel_needed_delete_power'(id:131) with values (value:115) was added by '---'(id:10) to channel 'osi osi dulzura'(id:15)
+2019-08-26 23:02:58.891600|INFO    |VirtualServerBase|1  |client connected 'Lil internet venezolano'(id:6) using a myTeamSpeak ID from 201.242.200.5:64466
+2019-08-26 23:03:01.656342|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1298305841' by client 'Lil internet venezolano'(id:6)
+2019-08-26 23:22:44.181498|INFO    |VirtualServerBase|1  |client connected 'Conny♥'(id:17) from 190.215.30.24:59648
+2019-08-26 23:22:45.512195|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1298305841' by client 'Conny♥'(id:17)
+2019-08-26 23:22:46.014776|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4018690437' by client 'Conny♥'(id:17)
+2019-08-26 23:23:01.283774|INFO    |PktHandler    |1  |Cleaning up connection because of 8 resends of COMMAND packet
+2019-08-26 23:23:01.283922|INFO    |PktHandler    |1  |Dropping client 3 because of resend timeout
+2019-08-26 23:23:01.284018|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=connection lost'
+2019-08-26 23:23:39.647027|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:11869
+2019-08-27 00:33:05.735681|INFO    |VirtualServerBase|1  |client connected 'ConnexD'(id:2) using a myTeamSpeak ID from 187.253.123.123:3933
+2019-08-27 00:33:06.418374|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1298305841' by client 'ConnexD'(id:2)
+2019-08-27 00:53:42.482215|INFO    |VirtualServer |1  |client (id:17) was added to servergroup '100pre amorosa'(id:19) by client 'lil kbro'(id:11)
+2019-08-27 00:53:54.014664|INFO    |VirtualServer |1  |client (id:17) was added to servergroup 'Rango Vrg'(id:6) by client 'lil kbro'(id:11)
+2019-08-27 01:24:24.534927|INFO    |VirtualServerBase|1  |channel 'canal privado del kbro y la cony'(id:16) created as sub channel of '[cspacer] ─> Canales Vrg <─'(id:5) by 'Lil internet venezolano'(id:6)
+2019-08-27 01:24:44.112736|INFO    |VirtualServerBase|1  |channel 'canal privado del kbro y la cony'(id:16) deleted by 'Conny♥'(id:17)
+2019-08-27 01:25:51.521694|INFO    |VirtualServerBase|1  |client disconnected 'lil kbro'(id:11) reason 'invokerid=4 invokername=Lil internet venezolano invokeruid=cfnutzq69ZeCieBzcXRef3Q9HGI= reasonmsg=bañate otaku pendejo'
+2019-08-27 01:25:58.051242|INFO    |VirtualServerBase|1  |client connected 'lil kbro'(id:11) from 200.83.219.62:63750
+2019-08-27 01:29:07.379531|INFO    |VirtualServer |1  |client (id:17) was removed from servergroup 'Rango Vrg'(id:6) by client 'Lil Guaidog'(id:6)
+2019-08-27 01:29:29.981603|INFO    |VirtualServerBase|1  |client disconnected 'ConnexD'(id:2) reason 'invokerid=4 invokername=Lil Guaidog invokeruid=cfnutzq69ZeCieBzcXRef3Q9HGI= reasonmsg=BUILDEA PENDEJO'
+2019-08-27 01:29:34.650198|INFO    |VirtualServer |1  |client (id:17) was added to servergroup 'Rango Vrg'(id:6) by client 'Lil Guaidog'(id:6)
+2019-08-27 01:29:37.017454|INFO    |VirtualServerBase|1  |client connected 'ConnexD'(id:2) using a myTeamSpeak ID from 187.253.123.123:3933
+2019-08-27 01:40:36.358869|INFO    |VirtualServerBase|1  |client disconnected 'Conny♥'(id:17) reason 'reasonmsg=saliendo'
+2019-08-27 01:53:33.729892|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=saliendo'
+2019-08-27 01:57:56.954953|INFO    |VirtualServerBase|1  |client connected '---'(id:10) from 186.84.20.206:11860
+2019-08-27 01:58:21.525596|INFO    |VirtualServerBase|1  |client disconnected 'lil kbro'(id:11) reason 'reasonmsg=saliendo'
+2019-08-27 02:26:13.249520|INFO    |VirtualServerBase|1  |client disconnected '---'(id:10) reason 'reasonmsg=saliendo'
+2019-08-27 02:27:53.332348|INFO    |VirtualServerBase|1  |client disconnected 'Black'(id:14) reason 'reasonmsg=saliendo'
+2019-08-27 02:38:08.271735|INFO    |VirtualServerBase|1  |client connected 'hola'(id:23) using a myTeamSpeak ID from 190.196.112.198:56038
+2019-08-27 02:38:10.222848|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1612103521' by client 'hola'(id:23)
+2019-08-27 02:38:10.333311|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1377924223' by client 'hola'(id:23)
+2019-08-27 02:38:10.346276|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2463615792' by client 'hola'(id:23)
+2019-08-27 02:38:10.351383|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4223750993' by client 'hola'(id:23)
+2019-08-27 02:38:10.351445|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1298305841' by client 'hola'(id:23)
+2019-08-27 02:38:11.542833|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1036548476' by client 'hola'(id:23)
+2019-08-27 02:38:11.558454|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1217419634' by client 'hola'(id:23)
+2019-08-27 02:38:11.598192|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2424331456' by client 'hola'(id:23)
+2019-08-27 02:38:11.602236|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1165272063' by client 'hola'(id:23)
+2019-08-27 02:38:11.749420|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1665593403' by client 'hola'(id:23)
+2019-08-27 02:38:12.671744|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4018690437' by client 'hola'(id:23)
+2019-08-27 02:38:12.672623|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_520026385' by client 'hola'(id:23)
+2019-08-27 03:08:50.970446|INFO    |VirtualServerBase|1  |client disconnected '▶ lil r ◀'(id:7) reason 'reasonmsg=saliendo'
+2019-08-27 03:09:01.202207|INFO    |VirtualServerBase|1  |client disconnected 'ConnexD'(id:2) reason 'reasonmsg=saliendo'
+2019-08-27 04:02:34.257384|INFO    |VirtualServerBase|1  |client disconnected 'hola'(id:23) reason 'reasonmsg=saliendo'
+2019-08-27 04:08:41.701273|INFO    |VirtualServerBase|1  |client disconnected 'Lil Guaidog'(id:6) reason 'reasonmsg=Just another typical disconnection message.'
+2019-08-27 15:48:45.045012|INFO    |VirtualServerBase|1  |stopped

@@ -1,0 +1,60 @@
+2019-07-16 16:02:56.822789|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.9.1 (2019-07-02 13:17:23)
+2019-07-16 16:02:56.823438|INFO    |ServerLibPriv |   |SystemInformation: Linux 4.15.0-54-generic #58-Ubuntu SMP Mon Jun 24 10:55:24 UTC 2019 x86_64 Binary: 64bit
+2019-07-16 16:02:56.823640|INFO    |ServerLibPriv |   |Using hardware aes
+2019-07-16 16:02:56.830744|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2019-07-16 16:02:56.830949|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2019-07-16 16:02:56.837628|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2019-07-16 16:02:56.876108|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2019-07-16 16:02:56.880964|INFO    |Accounting    |   |Licensing Information
+2019-07-16 16:02:56.881134|INFO    |Accounting    |   |licensed to       : Anonymous
+2019-07-16 16:02:56.881274|INFO    |Accounting    |   |type              : No License
+2019-07-16 16:02:56.881389|INFO    |Accounting    |   |starting date     : Tue Jan  1 00:00:00 2019
+2019-07-16 16:02:56.881503|INFO    |Accounting    |   |ending date       : Fri Jan 31 00:00:00 2020
+2019-07-16 16:02:56.881607|INFO    |Accounting    |   |max virtualservers: 1
+2019-07-16 16:02:56.881708|INFO    |Accounting    |   |max slots         : 32
+2019-07-16 16:02:56.988030|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-07-16 16:02:58.782568|INFO    |              |   |Puzzle precompute time: 1846
+2019-07-16 16:02:58.783956|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2019-07-16 16:02:58.806060|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2019-07-16 16:02:58.810015|INFO    |Query         |   |listening for query ssh on 0.0.0.0:10022, [::]:10022
+2019-07-16 16:02:58.810608|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2019-07-17 16:02:57.101471|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-07-18 16:02:57.210862|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-07-19 16:02:57.325176|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-07-20 16:02:57.444579|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-07-21 16:02:57.556745|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-07-22 16:02:57.676603|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-07-23 16:02:57.797708|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-07-24 16:02:57.919612|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-07-25 16:02:58.020029|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-07-26 16:02:58.166779|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-07-27 16:02:58.273856|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-07-28 16:02:58.377814|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-07-29 16:02:58.457340|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-07-30 16:02:58.554682|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-07-31 16:02:58.816779|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-08-01 00:02:56.870840|INFO    |VirtualSvrMgr |   |executing monthly interval
+2019-08-01 00:02:56.884925|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2019-08-01 16:02:58.947310|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-08-02 16:03:00.329940|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-08-03 16:03:01.203642|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-08-03 17:44:51.102387|ERROR   |DatabaseQuery |   |db_exec() update clients set client_login_name='serveradmin', client_login_passw error: UNIQUE constraint failed: clients.client_login_name
+2019-08-03 17:45:12.690032|ERROR   |DatabaseQuery |   |db_exec() update clients set client_login_name='serveradmin', client_login_passw error: UNIQUE constraint failed: clients.client_login_name
+2019-08-03 18:17:20.066323|ERROR   |DatabaseQuery |   |db_exec() update clients set client_login_name='serveradmin', client_login_passw error: UNIQUE constraint failed: clients.client_login_name
+2019-08-04 16:03:03.721847|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-08-05 16:03:05.369095|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-08-06 16:03:08.450913|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-08-07 01:50:16.505291|INFO    |              |   |Error opening file "files/virtualserver_1/internal/avatar_anijjokkkgadajclkdnmalcamfmeekbdidfjkkjl": No space left on device
+2019-08-07 16:03:11.186226|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-08-08 16:03:13.142255|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-08-09 16:03:13.949688|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-08-10 16:03:14.606582|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-08-10 17:15:38.900916|ERROR   |FileHelp      |   |CustomFileHelpers::createDirectory _wmkdir files/virtualserver_1/channel_13 -1 28
+2019-08-10 17:34:49.248974|ERROR   |FileHelp      |   |CustomFileHelpers::createDirectory _wmkdir files/virtualserver_1/channel_13 -1 28
+2019-08-11 16:03:14.927232|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-08-12 16:03:15.597755|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-08-13 16:03:16.213791|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-08-13 19:12:10.709327|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2019-08-14 16:03:16.730889|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-08-14 17:24:33.223738|INFO    |ServerMain    |   |Received signal SIGTERM, shutting down.
+2019-08-14 17:24:33.225302|INFO    |ServerMain    |   |Received signal SIGHUP, shutting down.

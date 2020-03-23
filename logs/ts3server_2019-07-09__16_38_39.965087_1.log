@@ -1,0 +1,8 @@
+2019-07-09 16:38:41.518194|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2019-07-09 16:38:41.519212|WARNING |VirtualServer |1  |--------------------------------------------------------
+2019-07-09 16:38:41.519484|WARNING |VirtualServer |1  |ServerAdmin privilege key created, please use the line below
+2019-07-09 16:38:41.519680|WARNING |VirtualServer |1  |token=z5eeuQuMQ4xrPLA0vygqi7KLLJMDohHP0xrmOh+j
+2019-07-09 16:38:41.519866|WARNING |VirtualServer |1  |--------------------------------------------------------
+2019-07-09 16:42:38.405283|INFO    |VirtualServer |1  |client (id:2) was added to servergroup 'Server Admin'(id:6) by client 'server'(id:0)
+2019-07-09 16:42:38.408824|INFO    |VirtualServer |1  |client 'ConnexD'(id:2) used privilege key 'z5eeuQuMQ4xrPLA0vygqi7KLLJMDohHP0xrmOh+j' and was added to servergroup 'Server Admin'(id:6)
+2019-07-09 17:34:10.775052|INFO    |VirtualServerBase|1  |stopped
